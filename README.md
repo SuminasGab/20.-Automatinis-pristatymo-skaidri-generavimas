@@ -1,0 +1,1 @@
+# 20.-Automatinis-pristatymo-skaidri-generavimas
